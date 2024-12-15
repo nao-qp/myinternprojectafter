@@ -1,0 +1,16 @@
+# Java / Spring Boot のビルド成果物を無視
+/target/
+/*.log
+*.class
+*.jar
+*.ear
+
+# IDE によって生成されるファイルを無視
+/.idea/
+/.vscode/
+/*.iml
+
+
+
+# その他
+.DS_Store
